@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestType", "TestType\TestType.csproj", "{CC4EBD89-D5BF-4054-A59A-248426177577}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC4EBD89-D5BF-4054-A59A-248426177577}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{CC4EBD89-D5BF-4054-A59A-248426177577}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{CC4EBD89-D5BF-4054-A59A-248426177577}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{CC4EBD89-D5BF-4054-A59A-248426177577}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{CC4EBD89-D5BF-4054-A59A-248426177577}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{CC4EBD89-D5BF-4054-A59A-248426177577}.Debug|iPhone.Build.0 = Debug|iPhone
+		{CC4EBD89-D5BF-4054-A59A-248426177577}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{CC4EBD89-D5BF-4054-A59A-248426177577}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{CC4EBD89-D5BF-4054-A59A-248426177577}.Release|iPhone.ActiveCfg = Release|iPhone
+		{CC4EBD89-D5BF-4054-A59A-248426177577}.Release|iPhone.Build.0 = Release|iPhone
+		{CC4EBD89-D5BF-4054-A59A-248426177577}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{CC4EBD89-D5BF-4054-A59A-248426177577}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = TestType\TestType.csproj
+	EndGlobalSection
+EndGlobal
