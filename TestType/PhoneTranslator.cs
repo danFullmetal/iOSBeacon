@@ -6,6 +6,7 @@ namespace TestType
 	{
 		public PhoneTranslator ()
 		{
+			//Hola!!!
 		}
 	}
 }
