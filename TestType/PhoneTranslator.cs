@@ -7,6 +7,7 @@ namespace TestType
 		public PhoneTranslator ()
 		{
 			//Hola!!!
+			//Yo me llamo Ivan
 		}
 	}
 }
